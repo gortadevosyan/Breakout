@@ -1,0 +1,38 @@
+{
+    "version": "0.2.6",
+    "template_repo": "https://github.com/linsyking/messenger-templates",
+    "scenes": {
+        "Story": [
+            "Background",
+            "Room"
+        ],
+        "Home": [
+            "Background",
+            "UI",
+            "Rules"
+        ],
+        "Rules": [
+            "Rulespage"
+        ],
+        "Logo": [
+            "Background"
+        ],
+        "Level1": [
+            "Background",
+            "GameStuff"
+        ],
+        "Level2": [
+            "Background",
+            "GameStuff"
+        ],
+        "Transition1": [
+            "Background",
+            "Room"
+        ],
+        "Transition2": [
+            "Background",
+            "Room"
+        ]
+    },
+    "sceneprotos": {}
+}
